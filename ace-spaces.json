@@ -1,0 +1,8 @@
+{
+  "rank": "Rank",
+  "suit": "Spades",
+  "frontImage": "a-s.png",
+  "backImage": "deck-image.png",
+  "cardState": "FACE_UP"
+}
+
