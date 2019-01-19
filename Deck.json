@@ -1,12 +1,18 @@
 {
    "DrawPile":[
       {
-         "rank":"Rank",
+         "rank":"Ace",
          "suit":"Spades",
          "frontImage":"a-s.png",
          "backImage":"deck-image.png",
          "cardState":"FACE_UP"
-      }
+      },
+      {
+         "rank":"King",
+         "suit":"Spades",
+         "backImage":"deck-image.png",
+         "cardState":"FACE_UP"
+      },
    ],
    "DiscardPile":[
 
