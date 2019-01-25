@@ -10,6 +10,7 @@
       {
          "rank":"King",
          "suit":"Spades",
+         "frontImage":"k-s.png",
          "backImage":"deck-image.png",
          "cardState":"FACE_UP"
       },
